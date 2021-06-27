@@ -10,7 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  wifi_iot: ^0.1.1
+  wifi_iot: ^0.3.3
 
 dev_dependencies:
   flutter_test:
